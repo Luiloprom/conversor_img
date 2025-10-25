@@ -1,5 +1,5 @@
 package es.etg.dam;
 
 public interface Comando {
-    public String lanzar(String[] instruccion) throws Exception;
+    public String convertir(String[] instruccion) throws Exception;
 }
