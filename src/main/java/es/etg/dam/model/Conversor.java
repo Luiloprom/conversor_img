@@ -1,4 +1,4 @@
-package es.etg.dam;
+package es.etg.dam.model;
 
 public class Conversor implements Comando {
     public static final String MSG_ERROR = "A ocurrido un error al convertir la imagen";

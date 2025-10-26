@@ -4,6 +4,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import es.etg.dam.model.Comando;
+import es.etg.dam.model.Conversor;
+
 public class ConversorTest {
     public Comando comando;
 

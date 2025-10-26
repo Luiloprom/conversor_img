@@ -1,5 +1,8 @@
 package es.etg.dam;
 
+import es.etg.dam.model.Comando;
+import es.etg.dam.model.Conversor;
+
 public class App {
     public static final String COMANDO = "convert";
     public static final String ENTRADA = "goku.jpg";
